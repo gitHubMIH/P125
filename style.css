@@ -1,0 +1,28 @@
+.heading {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 1px 45px 55px rgb(226, 223, 17);
+    background-color:  rgb(221, 217, 101);
+}
+.note {
+    font-size: 25px;
+    color: rgb(124, 113, 8);
+}
+.copy {
+    position: fixed;
+    color: rgb(88, 83, 3);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(237, 216, 100);
+    text-align: center;
+    line-height: 5;
+    font-size: 23px;
+}
+canvas {
+    border: 10px solid rgb(0, 0, 0);
+}
+body{
+    background-color: black;
+} 
+
